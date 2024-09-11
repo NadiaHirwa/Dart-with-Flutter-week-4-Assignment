@@ -25,10 +25,17 @@ Calculate the difference between two dates.
 Exercise:
 
 Combine the above utilities to build a small application. This application should:
+
 Perform string manipulation on user input.
+
 Store the results in a collection.
+
 Save the data to a file.
+
 Use the date and time utilities to log when each entry was made.
+
+SUBMIT YOUR WORK IN THIS FORM https://forms.gle/euCWhEyW6FqRBF9o8
+
 
 
 
