@@ -36,11 +36,3 @@ Use the date and time utilities to log when each entry was made.
 
 SUBMIT YOUR WORK IN THIS FORM https://forms.gle/euCWhEyW6FqRBF9o8
 
-
-
-
-
-
-
-
-SUBMIT YOUR WORK IN THIS FORM https://forms.gle/euCWhEyW6FqRBF9o8
